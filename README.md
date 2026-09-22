@@ -44,7 +44,7 @@ To implement a gameplay feature where the player collects ammo pickups in the ga
 
 ## Output
 
-![Uploading image.png…]()
+<img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/c4b1a90c-f79e-4a41-bb05-5e92f7f43a70" />
 
 
 ##  Result
